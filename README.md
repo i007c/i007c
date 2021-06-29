@@ -21,7 +21,7 @@ Founder at [@00-team](https://github.com/00-team)
 [![007s GitHub Stats](https://github-readme-stats.vercel.app/api?username=i007c&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/i007c)
 
 
-<span>Find me on</span>
+<span>Find 007 on</span>
   
 [![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=ea4335&labelColor=FFF)](mailto:dr007cc@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/4chSwNEQ3E)
