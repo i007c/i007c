@@ -18,7 +18,7 @@ Founder of [@00-team](https://github.com/00-team)
 <div align="center">
   <span>007 Github Status</span>
   
-[![007s GitHub Stats](https://github-readme-stats.vercel.app/api?username=i007c&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/i007c)
+[![007s GitHub Stats](https://github-readme-stats.vercel.app/api?username=i007c&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91&count_private=true)](https://github.com/i007c)
 
 
 <span>Find 007 on</span>
