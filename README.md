@@ -24,7 +24,8 @@ Founder of [@00-team](https://github.com/00-team)
 
 
 <span>Find 007 on</span>
-  
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=1DA1F2&labelColor=FFF)](https://twitter.com/i007c)
 [![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=ea4335&labelColor=FFF)](mailto:dr007cc@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discord.gg/4chSwNEQ3E)
   
