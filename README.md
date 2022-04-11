@@ -1,6 +1,6 @@
 # 007
 
-Founder of [@00-team](https://github.com/00-team)
+Member of [@00-team](https://github.com/00-team)
 
 ## Technologies and Tools 007 use:
 
