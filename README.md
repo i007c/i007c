@@ -22,6 +22,12 @@ Member of [@00-team](https://github.com/00-team)
   
 [![007s GitHub Stats](https://github-readme-stats.vercel.app/api?username=i007c&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91&count_private=true)](https://github.com/i007c)
 
+  <span>007 StackOverflow Status</span>
+  
+<a href="https://stackoverflow.com/users/13406820/007">
+<img src="https://stackoverflow.com/users/flair/13406820.png?theme=dark" width="208" height="58" alt="007's profile at Stack Overflow" title="007's profile at Stack Overflow">
+</a>
+
 
 <span>Find 007 on</span>
 
