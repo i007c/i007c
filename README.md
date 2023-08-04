@@ -4,15 +4,10 @@ Member of [@00-team](https://github.com/00-team)
 
 ## 007 Stack:
 
-[<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='40' height='40' />](https://typescriptlang.org/)
-[<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/100w.webp' width='40' height='40' />](https://reactjs.org/)
-[<img src='https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg' width='40' height='40' />](https://webpack.js.org)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='40' height='40' />](https://sass-lang.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg' width='40' height='40' />](https://neovim.io/)
-
-
+[<img src='media/c.svg' width='40' height='40' />](c-openstd)
+[<img src='media/python.webp' width='40' height='40' />](https://python.org/)
+[<img src='media/git.svg' width='40' height='40' />](https://git-scm.com/)
+[<img src='media/nvim.svg' width='40' height='40' />](https://neovim.io/)
 
 <div align="center">
   <span>007 Github Status</span>
@@ -32,8 +27,7 @@ Member of [@00-team](https://github.com/00-team)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&logoColor=1DA1F2&labelColor=000)](https://twitter.com/i007c)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000)](mailto:dr007cc@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=7289da&labelColor=000)](https://discord.00-team.org)
-  
+
 </div>
 
-
-
+[c-openstd]: http://www.open-std.org/jtc1/sc22/wg14/
