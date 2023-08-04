@@ -4,7 +4,7 @@ Member of [@00-team](https://github.com/00-team)
 
 ## 007 Stack:
 
-[<img src='media/c.svg' width='40' height='40' />](c-openstd)
+[<img src='media/c.svg' width='40' height='40' />][c-openstd]
 [<img src='media/python.webp' width='40' height='40' />](https://python.org/)
 [<img src='media/git.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='media/nvim.svg' width='40' height='40' />](https://neovim.io/)
